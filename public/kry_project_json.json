@@ -28,7 +28,8 @@
     "use_tech": "Next.js, react-query, axios, styled-components, framer-motion",
     "project_images": [
       "https://fks1311.github.io/cdn/public/assets/moviezip/home-main.png",
-      "https://fks1311.github.io/cdn/public/assets/moviezip/mvz_home.gif"
+      "https://fks1311.github.io/cdn/public/assets/moviezip/mvz_home.gif",
+      "https://fks1311.github.io/cdn/public/assets/moviezip/nav.gif"
     ],
     "link": "https://velog.io/@well_log/posts"
   }
