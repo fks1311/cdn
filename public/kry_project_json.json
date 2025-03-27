@@ -5,7 +5,8 @@
     "use_tech": "Next.js, styled-components, framer-motion",
     "project_images": [
       "https://fks1311.github.io/cdn/public/assets/portfolio/home.gif",
-      "https://fks1311.github.io/cdn/public/assets/portfolio/about.gif"
+      "https://fks1311.github.io/cdn/public/assets/portfolio/about.gif",
+      "https://fks1311.github.io/cdn/public/assets/portfolio/projects.gif"
     ],
     "link": "/"
   },
