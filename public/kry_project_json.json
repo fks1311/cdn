@@ -33,7 +33,8 @@
     "project_images": [
       "https://fks1311.github.io/cdn/public/assets/moviezip/home.gif",
       "https://fks1311.github.io/cdn/public/assets/moviezip/genre.gif",
-      "https://fks1311.github.io/cdn/public/assets/moviezip/filter.gif"
+      "https://fks1311.github.io/cdn/public/assets/moviezip/filter.gif",
+      "https://fks1311.github.io/cdn/public/assets/moviezip/mobile.gif"
     ],
     "link": "https://movie-zip.netlify.app"
   }
