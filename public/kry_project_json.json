@@ -10,7 +10,8 @@
       "https://fks1311.github.io/cdn/public/assets/portfolio/project_detail.gif",
       "https://fks1311.github.io/cdn/public/assets/portfolio/contact.gif"
     ],
-    "link": "/"
+    "link": "/",
+    "blog": "https://velog.io/@well_log/DR-PORTFOLIO"
   },
   {
     "subject": "Day6 Fan Ground",
@@ -25,7 +26,8 @@
       "https://fks1311.github.io/cdn/public/assets/day6/youtube.gif",
       "https://fks1311.github.io/cdn/public/assets/day6/youtube_2.gif"
     ],
-    "link": "https://day6-fanground.vercel.app"
+    "link": "https://day6-fanground.vercel.app",
+    "blog": "https://velog.io/@well_log/DR-DAY6-Fanground"
   },
   {
     "subject": "MovieZip",
@@ -38,6 +40,7 @@
       "https://fks1311.github.io/cdn/public/assets/moviezip/filter.gif",
       "https://fks1311.github.io/cdn/public/assets/moviezip/mobile.gif"
     ],
-    "link": "https://movie-zip.netlify.app"
+    "link": "https://movie-zip.netlify.app",
+    "blog": "https://velog.io/@well_log/DR-Movie-Zip"
   }
 ]
