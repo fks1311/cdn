@@ -45,7 +45,7 @@
   },
   {
     "subject": "to do focus",
-    "project_detail": "Typescript를 사용해보기 위해 만들어본 프로젝트로 todo와 뽀모도로를 합친 사이트입니다. React 기반으로 만들어졌으며, 오늘/내일/이번주/완료됨으로 구분되어 있습니다. 뽀모도로는 기본 25분으로 설정되어 있으며, 본인이 원하는 타이머로 조정도 가능합니다. 또한 입력된 일정들은 선택된 네비에 따라 완료/미루기/취소/삭제가 가능합니다. 해당 프로젝트는 DB를 사용하지 않고 LocalStorage에 데이터를 저장하여 관리합니다.",
+    "project_detail": "Typescript를 사용해보기 위해 만들어본 프로젝트로 todo와 뽀모도로를 합친 사이트입니다. React 기반으로 만들어졌으며, 오늘/내일/이번주/완료됨으로 구분되어 있습니다. 뽀모도로는 기본 25분으로 설정되어 있으며, 본인이 원하는 타이머로 조정도 가능합니다. 또한 입력된 일정들은 선택된 네비에 따라 완료/미루기/취소/삭제가 가능합니다. setInterval()을 통해 일/주 단위 시간 감지하고 단위에 맞는 일정 병합 및 초기화 기능을 제공합니다. 해당 프로젝트는 DB를 사용하지 않고 LocalStorage에 데이터를 저장하여 관리합니다.",
     "use_tech": "React, TypeScript, Recoil, styled-components, framer-motion, craco",
     "project_images": [
       "https://fks1311.github.io/to.do.focus/public/assets/total.gif",
